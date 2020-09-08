@@ -7,4 +7,4 @@
   <li>NumPy stands for Numerical Python.</li>
 </ul>
 <p> I have taken some major and basic numpy examples and function! <br> Numpy is very simple yet important libary to perform data science !<br>
-  I would like to thank <a href='https://numpy.org/'>Numpy.org</a>
+  I would like to thank <a href='https://numpy.org/'>Numpy.org</a>.
